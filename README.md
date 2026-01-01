@@ -47,16 +47,6 @@
             
             <img src="8.jpg" onerror="this.src='8.png'; this.onerror=function(){this.src='8.jpeg'; this.onerror=function(){this.src='8.JPG'}}" class="foto-blur p8">
             
-            <img src="9.jpg" onerror="this.src='9.png'; this.onerror=function(){this.src='9.jpeg'; this.onerror=function(){this.src='9.JPG'}}" class="foto-blur p9">
-            
-            <img src="10.jpg" onerror="this.src='10.png'; this.onerror=function(){this.src='10.jpeg'; this.onerror=function(){this.src='10.JPG'}}" class="foto-blur p2">
-            <img src="11.jpg" onerror="this.src='11.png'; this.onerror=function(){this.src='11.jpeg'; this.onerror=function(){this.src='11.JPG'}}" class="foto-blur p4">
-            <img src="12.jpg" onerror="this.src='12.png'; this.onerror=function(){this.src='12.jpeg'; this.onerror=function(){this.src='12.JPG'}}" class="foto-blur p6">
-            <img src="13.jpg" onerror="this.src='13.png'; this.onerror=function(){this.src='13.jpeg'; this.onerror=function(){this.src='13.JPG'}}" class="foto-blur p8">
-            <img src="14.jpg" onerror="this.src='14.png'; this.onerror=function(){this.src='14.jpeg'; this.onerror=function(){this.src='14.JPG'}}" class="foto-blur p1">
-            <img src="15.jpg" onerror="this.src='15.png'; this.onerror=function(){this.src='15.jpeg'; this.onerror=function(){this.src='15.JPG'}}" class="foto-blur p3">
-            <img src="16.jpg" onerror="this.src='16.png'; this.onerror=function(){this.src='16.jpeg'; this.onerror=function(){this.src='16.JPG'}}" class="foto-blur p5">
-            <img src="17.jpg" onerror="this.src='17.png'; this.onerror=function(){this.src='17.jpeg'; this.onerror=function(){this.src='17.JPG'}}" class="foto-blur p7">
         </div>
     </section>
 
